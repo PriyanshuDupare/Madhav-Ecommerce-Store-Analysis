@@ -52,7 +52,7 @@ The dashboard is designed to display the following key metrics and visualization
 
 ## Screenshots
 
-![Dashboard Screenshot](images/screenshot.png)
+https://github.com/PriyanshuDupare/Madhav-Ecommerce-Store-Analysis/blob/main/Screenshot%20(939).png
 
 ## Conclusion
 
